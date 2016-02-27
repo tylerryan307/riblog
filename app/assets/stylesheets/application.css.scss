@@ -29,7 +29,7 @@ a {
 	color: inherit;
 }
 
-#sidebar {
+#sidebarRI {
 	width: 250px;
 	position: fixed;
 	left: 0;
@@ -51,7 +51,7 @@ a {
 		list-style: none;
 		text-align: right;
 		padding-right: 3em;
-		.category {
+		.categoryRI {
 			font-weight: 700;
 			font-size: 0.7em;
 			text-transform: uppercase;
@@ -209,7 +209,7 @@ a {
 			}
 		}
 	}
-	#page_wrapper {
+	#page_wrapperRI {
 		padding: 3em;
 		#profile_image {
 			width: 300px;
