@@ -27,6 +27,6 @@ Blog::Application.configure do
   # number of complex assets.
   config.assets.debug = true
 
-  config.action_mailer.default_url_options = { host: 'dry-anchorage-52370.herokuapp.com' }
+ 
 
 end
