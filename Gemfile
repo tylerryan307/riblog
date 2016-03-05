@@ -53,3 +53,9 @@ end
 gem 'devise', '~> 3.3.0'
 
 gem 'paperclip'
+
+gem 'fog'
+
+gem 'aws-sdk'
+
+
