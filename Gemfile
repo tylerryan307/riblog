@@ -52,4 +52,7 @@ end
 
 gem 'devise', '~> 3.3.0'
 
+gem 'carrierwave'
+
+
 
