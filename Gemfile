@@ -52,9 +52,4 @@ end
 
 gem 'devise', '~> 3.3.0'
 
-gem 'carrierwave'
-
-gem 'mini_magick'
-
-gem 'fog-aws'
 
