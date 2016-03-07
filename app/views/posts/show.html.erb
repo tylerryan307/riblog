@@ -8,10 +8,9 @@
 		| <%= link_to 'edit', edit_post_path(@post) %>
 		<% end %>
 	</p>
-	<div class="image_wrapper">
-		<%= image_tag @post.image.url(:medium) %>
-	</div>
+<%= image_tag @post.image.url if @post.image? %>
 	<p class="body">
+
 		<%= @post.body %>
 	</p>
 </div>

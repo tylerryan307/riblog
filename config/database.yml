@@ -8,8 +8,6 @@ development:
   database: db/development.sqlite3
   pool: 5
   timeout: 5000
-  access_key_id: AKIAI2JBQXQZ5X5OPQXA
-  secret_access_key: fu1JIurX+E4dq8F8gGNF7Y3Y/K7pDekqnsKuJ2Tc
 
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".
@@ -19,14 +17,9 @@ test:
   database: db/test.sqlite3
   pool: 5
   timeout: 5000
-  access_key_id: AKIAI2JBQXQZ5X5OPQXA
-  secret_access_key: fu1JIurX+E4dq8F8gGNF7Y3Y/K7pDekqnsKuJ2Tc
 
 production:
   adapter: sqlite3
   database: db/production.sqlite3
   pool: 5
   timeout: 5000
-  access_key_id: AKIAI2JBQXQZ5X5OPQXA
-  secret_access_key: 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
-  
