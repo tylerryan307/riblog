@@ -22,7 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-
+[![Run on Repl.it](https://repl.it/badge/github/tylerryan307/riblog)](https://repl.it/github/tylerryan307/riblog)
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
